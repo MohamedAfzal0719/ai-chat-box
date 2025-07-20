@@ -21,7 +21,7 @@ To set up the Simple-Chat-Bot on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MEERAN2314/Simple-Chat-Bot.git
+https://github.com/MohamedAfzal0719/ai-chat-box.git
 cd Simple-Chat-Bot
 
 ### 2.Create a Virtual Environment (Recommended)
